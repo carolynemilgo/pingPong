@@ -1,0 +1,14 @@
+.header {
+  background-image: url("../images/2.jpg"); ;
+  text-align: center;
+  height: 300px;
+  color: white;
+}
+.sideBar{
+  background-color:lightgrey;
+  
+}
+#results{
+  padding: 15px;
+  margin: 55px:
+}
