@@ -25,3 +25,4 @@ Fork the project folder from Github repository and save it in your local machine
 Run the index file in your preferred browser and play!
 # Access
 The game of Ping Pong is accessible on Github pages through this link
+https://carolynemilgo.github.io/pingPong/
