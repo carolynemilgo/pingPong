@@ -2,7 +2,7 @@
 function pingpong(num) {
   var empty = []
 
-  for (var i = 1; i < num; i++) {
+  for (var i = 1; i <= num; i++) {
     if (i % 15 === 0) {
       empty.push('pingpong')
     } else if
